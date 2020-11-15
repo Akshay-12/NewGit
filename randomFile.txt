@@ -1,8 +1,15 @@
 some text for this file.
+
 This is done by the team Mate to create the conflict
 change noname:something has changed
 
+this is local commit to create scenario.
+change 2:check another scenario
 
+
+WI6:Local commit has been done on randomFile
+
+conflict solved.
 something has changed in this file.
 
 test rebase with conflict this is done by team mate for WI7
