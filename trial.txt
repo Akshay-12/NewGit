@@ -8,3 +8,6 @@ module 2 commiting without staging
 
 
 dont want to add
+
+
+Bug2- We are fixing bug2 to check 3-way merging
