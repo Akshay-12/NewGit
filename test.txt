@@ -2,3 +2,5 @@ AKshay Belhekar
 
 
 test simple push to remote WI4
+
+this is to check the pull command of git on remote repository . done by the team mate.
