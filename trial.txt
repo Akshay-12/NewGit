@@ -1,4 +1,4 @@
-hey there
+hey there ....
 
 This is second edit after comminting once;
 
@@ -8,3 +8,11 @@ module 2 commiting without staging
 
 
 dont want to add
+
+
+
+
+
+
+
+Updating the master branch which has to be done by the teammate. To create the conflict we are doing this.
