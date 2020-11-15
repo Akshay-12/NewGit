@@ -7,3 +7,10 @@ Nothing
 module 2 commiting without staging 
 
 Hey We are doing something
+
+
+
+
+changed for bug1
+
+change too fix the bug
